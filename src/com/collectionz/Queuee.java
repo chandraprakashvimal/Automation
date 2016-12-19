@@ -11,6 +11,6 @@ public class Queuee {
 		front=rear=-1;
 	}
 	public void insert(int value){
-		
+		int i=0;
 	}
 }
